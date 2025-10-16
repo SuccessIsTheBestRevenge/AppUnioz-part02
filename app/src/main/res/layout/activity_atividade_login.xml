@@ -121,7 +121,7 @@
             android:layout_width="357dp"
             android:layout_height="60dp"
             android:hint="Digite sua Senha"
-            android:inputType="number"
+            android:inputType="text|textNoSuggestions"
             android:maxLength="15"
             android:password="true"
             android:singleLine="true"
